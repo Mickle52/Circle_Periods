@@ -1,5 +1,4 @@
 import SelectCircle from "../SelectCircle/SelectCircle";
-import { data } from "../../data";
 import './timeline-component.css'
 import { FC, useState } from "react";
 import SwiperComponent from "../SwiperComponent/SwiperComponent";
